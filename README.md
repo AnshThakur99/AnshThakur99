@@ -1,4 +1,4 @@
-<h3 align="center">Hi 👋! My name is Ansh Thakur and I'm a Software Developer from India.</h3>
+<h3 align="left">Hi 👋! My name is Ansh Thakur and I'm a Software Developer from India.</h3>
 
 ###
 
