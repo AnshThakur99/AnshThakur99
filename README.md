@@ -1,4 +1,4 @@
-h1 align="center">Hi 👋, I'm Ansh Thakur</h1>
+<h1> align="center">Hi 👋, I'm Ansh Thakur</h1>
 <h3 align="center">A passionate Software developer from India</h3>
 
 - 📫 How to reach me **ansh812004thakur@gmail.com**
